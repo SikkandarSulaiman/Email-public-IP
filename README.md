@@ -12,3 +12,5 @@ This will be useful in places where you need external access to your computer bu
 Note:
 1. For gmail, python is a less secure app and by default gmail denies logging in from python.
     You can fix this problem in https://www.google.com/settings/security/lesssecureapps
+2. Look at lines 26 to 32 and comment/uncomment according to the mail server you're using.
+    Leave as it is if you're using Gmail.

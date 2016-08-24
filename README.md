@@ -5,6 +5,8 @@ This is a python code which sends an e-mail (to your gmail) whenever your public
 The subject of the mail consists of your new IP address.
 In the body of mail, the time it was changed is written.
 
+You can send & receive in a same mail ID for privacy if you have only one mail ID.
+
 This will be useful in places where you need external access to your computer but you don't want to buy a website or don't want to setup a dynamic DNS.
 
 Note:
